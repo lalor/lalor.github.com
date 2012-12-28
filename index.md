@@ -3,15 +3,16 @@ layout: home
 avatar: yes
 ---
 
-I'm a fourth-year PhD student in the Department of [Statistics](http://www.stat.iastate.edu), Iowa State University. My research interest is [interactive](https://github.com/ggobi/cranvas) statistical graphics, working with [Di](http://www.public.iastate.edu/~dicook) and [Heike](http://www.public.iastate.edu/~hofmann). I have been developing a few [R](http://www.r-project.org) packages either seriously or for [fun](http://cran.r-project.org/package=fun) (or both), such as [animation](http://cran.r-project.org/package=animation), [formatR](/formatR/), and [knitr](/knitr/). I founded a Chinese website called "[Capital of Statistics](http://cos.name)" in 2006 which has grown into a large online community on statistics in China. I'm a co-founder of [Supstat](http://supstat.com) Consulting. I also initiated the first Chinese R conference in 2008. Besides statistics, I'm a big fan of [GitHub](https://github.com/yihui), [LyX](http://www.lyx.org) and [pandoc](http://johnmacfarlane.net/pandoc/). I hate IE. I fall asleep when I see beamer slides, and I yell at people who use `\textbf{}` to write `\title{}`. I know I cannot eat code, so I cook almost every day to stay away from my computer for two hours. Recently I began to play with my neighbor's lonely [dog](http://www.screenr.com/ewX8) on my way back home.
+I am an graduate student in Department of Computer Science and Technology at Xiamen University and expected to graduated in June 2014. I'm a passionate guy. Passionate about Computer Science and Philosophy. My interest hobbies are widespread, like mountain climbing, swimming, go to the cinema, travel etc.
 
-<!--
-这是谢益辉的个人主页，我目前在爱荷华州立大学统计系读博。上面英文你懂的，我就不翻译了。我支持开源软件，喜欢折腾网站和代码，是一个高度自我驱动的人。在学校呆久了，有点厌倦上学。智商中等偏下，对麻将和三国杀有不可逾越的认知障碍。少读书，只是偶尔网上乱翻帖子，目前最喜欢的一首词是：
+My dreams are:
 
-> 深情似海，问相逢初度，是何年纪？依约而今还记取，不是前生夙世。放学花前，题诗石上，春水园亭里。逢君一笑，人间无此欢喜。  
-> 无奈苍狗看云，红羊数劫，惘惘休提起。客气渐多真气少，汨没心灵何已。千古声名，百年担负，事事违初意。心头阁住，儿时那种情味。
+1. to overcome cognitive biases and practice the art of human rationality.
+1. to reach mastery in computer programming and to make the world more beautiful.
 
--->
+I'm a big fan of vim and use it for almost all of my writing, I couldn’t live without in my day-to-day editing.I like unix/linux very much, and also have rich experience with common unix command line utilities. I constantly seeking out some new stuff to learn, and have found many useful tools to help me work efficiently, such as apvlv, mutt, awesome, tmux and vichrome.
+
+每一个优秀的人，都会有一段沉默的时光。那一段时光，是付出了很多努力，忍受孤独和寂寞，不抱怨不诉苦，日后说起时，连自己都能被感动的日子。如果将来我是一个还算优秀的人，那么我的研究生阶段就是这段所谓的时光。我不知道老天为何要让我在生活，学习和感情上都经历这么多挫折，又让我遇到这么多愿意帮助我的老师和朋友，让我不低头，更勇敢的活。可是，我只不过是个普通人啊。我的座右铭是， "Nothing replaces hard work!" 。
 
 >芝兰生于深谷，不以无人而不芳  
 >君子修身养德，不以穷困而改志
