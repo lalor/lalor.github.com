@@ -3,7 +3,7 @@ layout: home
 avatar: yes
 ---
 
-I am an graduate student in Department of Computer Science and Technology at Xiamen University and expected to graduated in June 2014. I'm a passionate guy. Passionate about Computer Science and Philosophy. My interest hobbies are widespread, like mountain climbing, swimming, go to the cinema, travel etc.
+I am a master candidate at Department of Computer Science and Technology at Xiamen University and expected to graduated in June 2014. I'm a passionate guy. Passionate about Computer Science and Philosophy. My interest hobbies are widespread, like mountain climbing, swimming, go to the cinema, travel etc.
 
 My dreams are:
 
