@@ -11,13 +11,13 @@
 .dec{color:#00FF00;}
 
 pre.prettyprint {
-margin-bottom:30px;
-margin-top:20px;
-background-color:#FFFFFF; /*f7f7f9*/
+margin-top: 20px;
+margin-bottom: 10px;
+background-color:#f8f8f8; /*f7f7f9*/
+padding-left:2.3em;
+font-size:16px;
+line-height:1.1;
 }
-ol.linenums{margin-top:0;margin-bottom:0;}
-li.L0, li.L1, li.L2, li.L3, li.L4, li.L5, li.L6, li.L7, li.L8, li.L9{color:#fafafa;}
-/*li.L1, li.L3, li.L5, li.L7, li.L9{background:#111;}*/
 @media print {
     .str{color:#060;}
     .kwd{color:#006;font-weight:bold;}
@@ -34,12 +34,10 @@ li.L0, li.L1, li.L2, li.L3, li.L4, li.L5, li.L6, li.L7, li.L8, li.L9{color:#fafa
 pre code {
 font-family:Monaco,Menlo,"Courier New",monospace;
 background-color:transparent;
-padding:0;
 border: none;
 }
 code {
-color:deepPink;
-background-color:#f7f7f9;
+color:#d14;
+background-color:#f8f8f8;
 border:1px solid #e1e1e8;
-padding:3px 4px;
 }
