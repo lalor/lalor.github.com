@@ -13,7 +13,7 @@
 pre.prettyprint {
 margin-top: 20px;
 margin-bottom: 10px;
-background-color:#f8f8f8; /*f7f7f9*/
+background-color:#FFFFFF; /*f7f7f9*/
 padding-left:2.3em;
 font-size:16px;
 line-height:1.1;
@@ -38,6 +38,6 @@ border: none;
 }
 code {
 color:#d14;
-background-color:#f8f8f8;
+background-color:#FFFFFF;
 border:1px solid #e1e1e8;
 }
