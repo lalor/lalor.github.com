@@ -1,7 +1,7 @@
 .str{color:deepPink;}
 .kwd{color:#069;font-weight:bold;}
 .com{color:#008200;font-style:italic;}
-.typ{color:#069;font-weight:bold;}
+.typ{color:gray}
 .lit{color:#000;}
 .pun{color:#000;}
 .pln{color:#000;}
