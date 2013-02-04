@@ -17,7 +17,7 @@ body{font-size:14px;font-family:"Galdeano","Hiragino Sans GB","Microsoft YaHei",
 a{color:#dd0000;text-decoration:none;}
 a:hover{color:#333333;text-decoration:underline;}
 hr{margin:.7em 0;border-top:1px dashed #d0d0d0;border-bottom:1px dashed #f9f9f9;}
-p{padding:.5em .2em;text-indent:2.3em;}
+p{padding:.5em .2em;}
 li{padding:.2em 0;}
 ol,ul{list-style-position:inside;}
 ol ul, ul ol, ul ul, ol ol {margin-left:1em;}
