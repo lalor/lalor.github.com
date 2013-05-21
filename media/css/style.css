@@ -45,4 +45,41 @@ h2{padding:.5em .2em;font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",s
 h3{padding:.5em .2em;font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1.2em;color:#222;}
 h4{padding:.5em .2em;font-family:"Cuprum","Hiragino Sans GB","Microsoft YaHei",sans-serif;font-size:1em;color:#333;}
 embed,object,iframe{display:block;margin:4px auto;}
-.gist{font-size: 12px;line-height:1.6;}
+.gist{font-size: 13px;line-height:1.6;}
+
+#message a {
+    /* display: block before hiding */
+    display: block;
+    display: none;
+
+    /* link is above all other elements */
+    z-index: 999; 
+
+    /* link doesn't hide text behind it */
+    opacity: .8;
+
+    /* link stays at same place on page */
+    position: fixed;
+
+    /* link goes at the bottom of the page */
+    top: 100%;
+    margin-top: -80px; /* = height + preferred bottom margin */
+
+    /* link is centered */
+    left: 50%;
+    margin-left: -160px; /* = half of width */
+
+    /* round the corners (to your preference) */
+    -moz-border-radius: 24px;
+    -webkit-border-radius: 24px;
+
+    /* make it big and easy to see (size, style to preferences) */
+    width: 300px;
+    line-height: 48px;
+    height: 48px;
+    padding: 10px;
+    background-color: #000;
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+}
