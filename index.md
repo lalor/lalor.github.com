@@ -3,7 +3,7 @@ layout: home
 avatar: yes
 ---
 
-I am a master candidate at Department of Computer Science and Technology of Xiamen University and expected to graduated in June 2014. I'm a passionate guy. Passionate about Computer Science and Philosophy. My interest hobbies are widespread, like mountain climbing, swimming, go to the cinema, travel etc.
+My name is Mingxing LAI and major in computer science. I'm a software engineer work at Netease in hangzhou. I'm a passionate guy. Passionate about Computer Science and History. My interest hobbies are widespread, like mountain climbing, swimming, go to the cinema, travel etc.
 
 My dreams are:
 
